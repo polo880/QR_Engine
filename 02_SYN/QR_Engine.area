@@ -1,0 +1,33 @@
+ 
+****************************************
+Report : area
+Design : QR_Engine
+Version: U-2022.12
+Date   : Mon Dec 18 02:42:53 2023
+****************************************
+
+Information: Updating design information... (UID-85)
+Warning: Design 'QR_Engine' contains 1 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Library(s) Used:
+
+    slow (File: /home/raid7_2/course/cvsd/CBDK_IC_Contest/CIC/SynopsysDC/db/slow.db)
+    sram_256x8 (File: /home/raid7_2/user12/r2921088/Final_project_vfiles/SRAM/sram_256x8/sram_256x8_slow_syn.db)
+
+Number of ports:                         1757
+Number of nets:                         97640
+Number of cells:                        90741
+Number of combinational cells:          83529
+Number of sequential cells:              7190
+Number of macros/black boxes:               6
+Number of buf/inv:                      17620
+Number of references:                     199
+
+Combinational area:             995214.475248
+Buf/Inv area:                   114582.986544
+Noncombinational area:          230445.814747
+Macro/Black Box area:           124859.425781
+Net Interconnect area:         9116846.377045
+
+Total cell area:               1350519.715776
+Total area:                   10467366.092820
+1
